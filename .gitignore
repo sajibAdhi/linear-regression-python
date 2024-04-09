@@ -2,4 +2,4 @@
 .venv/*
 
 # pycharm
-.idea/*
+.idea
